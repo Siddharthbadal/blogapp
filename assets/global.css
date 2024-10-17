@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.animated-circle--one{
+    animation: moveOne 15s linear infinite;
+}
+
+
+.animated-circle--two{
+    animation: moveTwo 15s linear infinite;
+}
+
+@keyframes moveOne {
+    0%{
+        transform: translate(0, 0) scale(1);
+    }
+    25%{
+        transform: translate(200px, 200px) scale(1);
+    }
+    50%{
+        transform: translate(100px, 300px) scale(1.2);
+    }
+    75%{
+        transform: translate(-100px, -400px) scale(1.1);
+    }
+    10%{
+        transform: translate(0,0) scale(1);
+    }
+}
+
+@keyframes moveTwo {
+    0%{
+        transform: translate(0, 0) scale(1);
+    }
+    25%{
+        transform: translate(-20px, -200px) scale(1);
+    }
+    50%{
+        transform: translate(-100px, -300px) scale(1.2);
+    }
+    75%{
+        transform: translate(70px, 40px) scale(1.1);
+    }
+    10%{
+        transform: translate(0,0) scale(1);
+    }
+}
