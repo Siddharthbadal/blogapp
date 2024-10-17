@@ -2,6 +2,7 @@
 
 Fetching data from Strapi CMS and NextJS for frontend.
 Blog has four pages.
+
     -   Home
     -   About
     -   Blogs
@@ -9,3 +10,10 @@ Blog has four pages.
 
 
 Users can hide and read text and has a testimonial section.
+
+![nextJS-Strapi-BlogAPP1](https://github.com/user-attachments/assets/f2d548d4-deeb-4ecf-8165-8796fc483f00)
+
+
+![nextJS-Strapi-BlogAPP2](https://github.com/user-attachments/assets/e053e896-a371-4441-90a7-f4a5ed3328b4)
+
+![nextJS-Strapi-BlogAPP3](https://github.com/user-attachments/assets/d9ce1983-da2e-4187-b66c-11e8f0250e0c)
