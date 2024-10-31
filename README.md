@@ -16,4 +16,4 @@ Users can hide and read text and has a testimonial section.
 
 ![nextJS-Strapi-BlogAPP2](https://github.com/user-attachments/assets/e053e896-a371-4441-90a7-f4a5ed3328b4)
 
-![nextJS-Strapi-BlogAPP3](https://github.com/user-attachments/assets/d9ce1983-da2e-4187-b66c-11e8f0250e0c)
+
